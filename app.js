@@ -1,0 +1,1 @@
+console.log('Alteração de git e teste de commit');
